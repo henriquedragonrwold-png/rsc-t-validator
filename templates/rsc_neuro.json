@@ -1,8 +1,11 @@
 {
-  "article":"RSC Neuro",
-  "hypotheses":[
-    {"id":"NEURO-H1","family":"spatial","hypothesis":"A reorganização neural apresenta padrão espacial mensurável.","prediction":"A organização espacial excede o nulo."},
-    {"id":"NEURO-H2","family":"temporal","hypothesis":"A dinâmica neural apresenta coordenação temporal.","prediction":"A coerência temporal excede o nulo."},
-    {"id":"NEURO-H3","family":"state","hypothesis":"Mudanças de estado neural seguem sequências temporais detectáveis.","prediction":"As transições diferem do embaralhamento."}
+  "article": "RSC Neuro",
+  "scope": "Organização espaço-temporal neural, regeneração/plasticidade e comportamento",
+  "hypotheses": [
+    "RSC-H1",
+    "RSC-H2",
+    "RSC-H3",
+    "RSC-H4",
+    "RSC-H5"
   ]
 }
