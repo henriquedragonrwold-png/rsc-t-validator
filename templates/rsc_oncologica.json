@@ -1,9 +1,11 @@
 {
-  "article":"RSC Oncológica / ADR-RSC ONCO",
-  "hypotheses":[
-    {"id":"ONCO-H1","family":"spatial","hypothesis":"O microambiente tumoral apresenta organização espacial mensurável associada à progressão/remodelação.","prediction":"A métrica espacial difere do modelo nulo."},
-    {"id":"ONCO-H2","family":"temporal","hypothesis":"Mudanças do sistema tumoral exibem coordenação temporal mensurável.","prediction":"A coerência temporal excede o nulo quando há séries temporais."},
-    {"id":"ONCO-H3","family":"state","hypothesis":"Estados celulares tumorais e do microambiente seguem transições organizadas.","prediction":"As sequências de estados diferem do embaralhamento."},
-    {"id":"ONCO-H4","family":"molecular","hypothesis":"Marcadores moleculares apresentam acoplamento espaço-temporal com a reorganização tumoral.","prediction":"O acoplamento observado excede a permutação molecular."}
+  "article": "RSC Oncológica",
+  "scope": "Organização/reprogramação espaço-temporal em contexto tumoral",
+  "hypotheses": [
+    "RSC-H1",
+    "RSC-H2",
+    "RSC-H3",
+    "RSC-H4",
+    "RSC-H5"
   ]
 }
