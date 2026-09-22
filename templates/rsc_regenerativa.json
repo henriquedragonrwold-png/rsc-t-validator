@@ -1,0 +1,9 @@
+{
+  "article":"RSC Regenerativa",
+  "hypotheses":[
+    {"id":"RSC-H1","family":"spatial","hypothesis":"A regeneração apresenta reorganização espacial celular mensurável e não aleatória.","prediction":"A organização espacial observada excede o modelo nulo espacial."},
+    {"id":"RSC-H2","family":"temporal","hypothesis":"A regeneração apresenta coordenação temporal dos movimentos celulares.","prediction":"A coerência direcional excede a distribuição nula."},
+    {"id":"RSC-H3","family":"state","hypothesis":"As transições celulares seguem uma ordem temporal detectável.","prediction":"As sequências de estados diferem do embaralhamento de estados."},
+    {"id":"RSC-H4","family":"molecular","hypothesis":"Mudanças em WNT, FGF, BMP, SHH ou HAND2 associam-se à reorganização espaço-temporal.","prediction":"A associação molecular-organização excede a permutação dos marcadores."}
+  ]
+}
