@@ -1,0 +1,13 @@
+condition,cell_id,time,x,y
+Controle,1,0,-0.4,0.2
+Controle,1,1,-0.2,0.1
+Controle,1,2,0.1,0.3
+Controle,2,0,0.5,-0.4
+Controle,2,1,0.2,-0.1
+Controle,2,2,0.4,0.2
+Regeneracao_demo,1,0,1.2,1.0
+Regeneracao_demo,1,1,0.7,0.6
+Regeneracao_demo,1,2,0.2,0.2
+Regeneracao_demo,2,0,-1.0,-0.8
+Regeneracao_demo,2,1,-0.5,-0.4
+Regeneracao_demo,2,2,0.0,0.0
