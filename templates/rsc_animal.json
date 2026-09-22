@@ -1,8 +1,11 @@
 {
-  "article":"RSC Animal",
-  "hypotheses":[
-    {"id":"ANIMAL-H1","family":"spatial","hypothesis":"Modelos animais regenerativos exibem organização espacial mensurável.","prediction":"A organização excede o nulo espacial."},
-    {"id":"ANIMAL-H2","family":"temporal","hypothesis":"A regeneração animal apresenta coordenação temporal.","prediction":"A coerência temporal excede o nulo."},
-    {"id":"ANIMAL-H3","family":"comparison","hypothesis":"A organização observada distingue condições regenerativas de controles.","prediction":"As condições apresentam diferença mensurável com incerteza e teste de permutação."}
+  "article": "RSC Animal",
+  "scope": "Aplicação comparativa em modelos animais de regeneração",
+  "hypotheses": [
+    "RSC-H1",
+    "RSC-H2",
+    "RSC-H3",
+    "RSC-H4",
+    "RSC-H5"
   ]
 }
